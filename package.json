@@ -1,0 +1,34 @@
+{
+  "name": "react-prototypes",
+  "version": "1.0.0",
+  "description": "React based prototypes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwani-luhaniwal/react-prototypes.git"
+  },
+  "keywords": [
+    "React",
+    "Prototypes"
+  ],
+  "author": "Ashwani K Luhaniwal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashwani-luhaniwal/react-prototypes/issues"
+  },
+  "homepage": "https://github.com/ashwani-luhaniwal/react-prototypes#readme",
+  "dependencies": {
+    "@material-ui/core": "^3.3.1",
+    "create-react-app": "^2.0.4",
+    "material-ui-pickers": "^1.0.0-rc.17",
+    "mson": "^1.0.5",
+    "mson-react": "^1.0.5",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0",
+    "typeface-roboto": "0.0.54",
+    "unist-util-is": "^2.1.2"
+  }
+}
